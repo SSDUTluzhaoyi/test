@@ -1,0 +1,21 @@
+1. Read the paper Reliable and Secure Vehicular Fog Service Provision
+   1) A new mechanism is proposed in the paper, which consists of VF construction method and VFS access method
+   2) A three-tiered system with three entities: TA (trusted authority), RSU (roadside unit), and vehicle OBU (on-board unit) 
+   3) Maintain performance while maintaining safety and reliability
+2. Read the paper Development trend and challenge of marine internet of things cloud platform
+   1) Summarize and sort out the development process and trends of the marine Internet of Things
+   2) Now the process of the marine Internet of Tings can be divided into four periods 
+3. Review linear algebra
+   1) learn the matrix related calculations
+4. Listen to Professor Tang¡¯s lecture and register an account in SCHOLAT
+5. Continue to learn guitar and keep practicing one hour a day
+
+
+1. Read the paper named Immune System for the Internet of Things using Edge Technologies
+   1) Analyze the requirements for the development of an immune system for the IoT
+   2) Propose a security architecture that satisfies these requirements
+   3) Describe how such a system can be instantiated in Edge Computing infrastructures
+2. Watch the video of Zhang Hongwei's lecture about Matrix factorization and do my homework
+3. Configure emacs that I can use emacs to make slides
+4. Prepare the presentation
+5. Go downtown to meet my undergraduate roommate who came to Dalian for a business trip
